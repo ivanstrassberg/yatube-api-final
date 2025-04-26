@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/yatube-api.git
+    git clone https://github.com/ivanstrassberg/yatube-api-final/tree/main/api_final_yatube-master
     cd yatube-api
     ```
 
